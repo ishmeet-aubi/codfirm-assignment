@@ -1,9 +1,13 @@
 #Amias Chat Bot
 
 ##Steps to run the Real time Application
+<br>
 ###`git clone 'link of repository'`
+<br>
 ###`npm install`
+<br>
 ###`nodemon`
+<br>
 ###Application will run on PORT 9000 
 
 ####Description
