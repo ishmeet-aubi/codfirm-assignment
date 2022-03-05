@@ -1,13 +1,13 @@
 {
-  "name": "chatcord",
+  "name": "Ishmeet",
   "version": "1.0.0",
-  "description": "Realtime chat app with rooms",
+  "description": "Realtime App with Users Tracking",
   "main": "server.js",
   "scripts": {
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Brad Traversy",
+  "author": "Ishmeet",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
